@@ -1,0 +1,17 @@
+{
+  "name": "Sidra Management",
+  "short_name": "Sidra",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#06101b",
+  "theme_color": "#06101b",
+  "description": "Workshop management for Sidhra Garments",
+  "icons": [
+    {
+      "src": "sidra-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
